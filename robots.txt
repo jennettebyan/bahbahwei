@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://boojaipaes.projectearly.com/sitemap.xml
